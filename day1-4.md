@@ -1,5 +1,7 @@
 # PHPDoc for code completion in Eclipse
 
+Create file to ~/Code/Laravel/public/code_completation.php in Eclipse
+
 Method arguments
 
 ```
@@ -19,7 +21,6 @@ class Baz1
 Returned value
 
 ```
-<?php
 class Baz2
 {
     /**
@@ -39,7 +40,6 @@ $datetime->
 An array with the method arguments
 
 ```
-<?php
 class Baz3
 {
     /**
@@ -57,7 +57,6 @@ class Baz3
 Variables
 
 ```
-<?php
 /** @var \DateTime $datetime */
 $datetime->
 ```
@@ -65,7 +64,6 @@ $datetime->
 Magic getter method
 
 ```
-<?php
 /**
  * @method \DateTime datetime() Description
  */
@@ -86,7 +84,6 @@ $datetime = $baz5->
 Magic property
 
 ```
-<?php
 /**
  * @property integer $id
  * @property string $title

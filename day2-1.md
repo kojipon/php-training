@@ -57,5 +57,8 @@ $ phpunit tests/HelloTest.php --testdox
 Code coverage
 
 ```
-$ phpunit tests --code-coverage
+$ phpunit tests --coverage-text
+$ phpunit tests --coverage-html phpunit-coverage.html
 ```
+
+see [phpunit manual](https://phpunit.de/manual/current/en/code-coverage-analysis.html) for detail

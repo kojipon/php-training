@@ -24,7 +24,7 @@ Restart php-fpm
 $ sudo service php7.0-fpm restart
 ```
 
-Copy xdebug.ini to cli conf.d
+Copy xdebug.ini for cli
 
 ```
 $ sudo cp /etc/php/7.0/fpm/conf.d/20-xdebug.ini /etc/php/7.0/cli/conf.d/
