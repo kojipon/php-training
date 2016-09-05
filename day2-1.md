@@ -58,7 +58,7 @@ Code coverage
 
 ```
 $ phpunit tests --coverage-text
-$ phpunit tests --coverage-html phpunit-coverage.html
+$ phpunit tests --coverage-html phpunit-coverage
 ```
 
 see [phpunit manual](https://phpunit.de/manual/current/en/code-coverage-analysis.html) for detail

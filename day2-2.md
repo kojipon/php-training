@@ -1,3 +1,14 @@
+# Test driven development cycle
+
+1. Add a test
+1. Run all tests and see if the new test fails
+1. Write the code
+1. Run tests
+1. Refactor code
+1. Repeat
+
+> Quotations: [Wikipedia: Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development#Test-driven_development_cycle)
+
 # Fizz buzz with Test Driven Development
 
 What is Fizz buzz
@@ -16,17 +27,6 @@ Example
 ```
 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, Fizz Buzz, 16, 17, Fizz, 19, Buzz, Fizz, 22, 23, Fizz, Buzz, 26, Fizz, 28, 29, Fizz Buzz, 31, 32, Fizz, 34, Buzz, Fizz, ...
 ```
-
-# Test driven development cycle
-
-1. Add a test
-1. Run all tests and see if the new test fails
-1. Write the code
-1. Run tests
-1. Refactor code
-1. Repeat
-
-> Quotations: [Wikipedia: Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development#Test-driven_development_cycle)
 
 # Play Fizzbuzz
 
