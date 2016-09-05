@@ -1,4 +1,4 @@
-# [WIP] Generate the Laravel CRUD
+# [WIP] Generate the Laravel CRUD 2
 
 Login Homestead
 

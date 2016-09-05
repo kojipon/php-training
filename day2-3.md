@@ -28,4 +28,16 @@ Example3
 </ul>
 ```
 
+Example4
+
+```
+1. list1
+1. list2
+↓
+<ol>
+<li>list1</li>
+<li>list2</li>
+</ol>
+```
+
 And more...
