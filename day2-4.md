@@ -39,7 +39,10 @@ Call FizzbuzzService in FizzbuzzCommand.php
 
     public function handle()
     {
-        ...
+        $fb = new FizzbuzzService();
+        for ($i = 1; $i =< 50; $i ++) {
+            $this->output->write($fb->handle($i) . ', ');
+        }
     }
 ```
 
